@@ -11,4 +11,5 @@ It uses webpack + my sass library
 - open it in folder
 - open command line in the project folder
 - run npm install
+- run webpack
 - work

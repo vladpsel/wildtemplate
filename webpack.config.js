@@ -3,6 +3,7 @@ const CopyPlugin = require("copy-webpack-plugin");
 
 module.exports = {
   mode: 'development',
+  watch: true,
   entry: [
     __dirname + '/src/sass/style.sass'
   ],
